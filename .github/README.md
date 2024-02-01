@@ -1,10 +1,10 @@
 <img src="https://telegra.ph/file/c0e014ff34f34d1056627.png" align="right" width="200" height="200"/>
 
-# Yukki Music Bot <img src="https://img.shields.io/github/v/release/YukkiOwner/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
+# Amems Music Bot <img src="https://img.shields.io/github/v/release/AmemsOwner/AmemsMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
-[Yukki Music Bot](https://github.com/YukkiOwner/YukkiMusicBot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources, this is an upgraded version of old source powered by [TeamYukki](https://github.com/TeamYukki)
+[Amems Music Bot](https://github.com/AmemsOwner/AmemsMusicBot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources, this is an upgraded version of old source powered by [TeamAmems](https://github.com/TeamAmems)
 
-[Click Here](https://github.com/TeamYukki/YukkiMusicBot) To Open Older Version Repository Of YukkiMusicBot.
+[Click Here](https://github.com/TeamAmems/AmemsMusicBot) To Open Older Version Repository Of AmemsMusicBot.
 
 
 * Youtube, Soundcloud, Apple Music, Spotify, Resso, Live Streams and Telegram Audios & Videos support.
@@ -22,7 +22,7 @@ We have temporarily disabled the deployment for  all these cloud service platfor
 
 ## 🖇 VPS Deployment
 
-Checkout [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
+Checkout [Docs](https://notreallyshikhar.gitbook.io/Amemsmusicbot/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
 
 
 # 🏷 Support / Assistance
@@ -32,20 +32,20 @@ Reach out to the maintainer at one of the following places:
 
 - [Telegram Support](https://t.me/AdityaDiscus)
 
-If you want to say **thank you** or/and support active development of YukkiMusicBot:
+If you want to say **thank you** or/and support active development of AmemsMusicBot:
 
-- Add a [GitHub Star](https://github.com/YukkiOwner/YukkiMusicBot) to the project.
+- Add a [GitHub Star](https://github.com/AmemsOwner/AmemsMusicBot) to the project.
 - Fork the Repo :)
 - Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or your personal blog.
 
-Together, we can make **YukkiMusicBot** better!
+Together, we can make **AmemsMusicBot** better!
 # 📑 Acknowledgement / Credits
 
-Special thanks to these amazing projects/people which/who help power Yukki Music Bot:
+Special thanks to these amazing projects/people which/who help power Amems Music Bot:
 
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
-- [TeamYukki](https://github.com/TeamYukki)
+- [TeamAmems](https://github.com/TeamAmems)
 
 
 
